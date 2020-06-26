@@ -37,3 +37,6 @@ cacheSolve <- function(x, ...) {
   x$setInverse(m)
   m
 }
+solve(4)
+[,1]
+[1,] 0.25
